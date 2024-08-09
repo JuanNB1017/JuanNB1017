@@ -1,5 +1,5 @@
 ## Hi there I am JuanNB1017👋
-<img src="./imgBanner.png">
+<img src="./banner.png">
 
 ![Static Badge](https://img.shields.io/badge/NPM-yellow?logo=npm)
 ![Static Badge](https://img.shields.io/badge/NodeJs-green?logo=node.js&logoColor=black)
